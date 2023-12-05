@@ -2,6 +2,11 @@
 
 \# INSERT ANSWERS HERE #
 
+# Questions 1, 2 and 3:
+
+The answers to these questions can be found at my logistic growth repository:
+https://github.com/user39201/logistic_growth
+
 # Question 4:
 A) Both graphs begin at (0,0) at the time step where t = 1.
 With each time step, the graphs behave differently, moving to different x and y coordinates seemingly randomly.
