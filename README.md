@@ -26,7 +26,7 @@ B) To fit a linear model to the data, you can perform a natural log transformati
 
 C) After performing a natural log transformation and a linear regression analysis on the data, my calculated values were as follows:
 
-B = 1181.807 (ln(B) = 7.0748, p_val = 2.28e-10 < 0.05)
+B = 1181.807 (3 dp), (ln(B) = 7.0748, p_val = 2.28e-10 < 0.05)
 
 a = 1.5152 (p_val = 6.44e-10 < 0.05)
 
@@ -38,7 +38,7 @@ The values for the exponent and the scaling factor for dsDNA of the viruses were
 
 D) The code for the replication of the plot is in this repository.
 
-E) A dsDNA virus with a genome length (L) of 300Kb, will have an estimated volume (V) of (1181.807)((300)^1.5152) = 6,697,006.581 nm3 according to the model.
+E) A dsDNA virus with a genome length (L) of 300Kb, will have an estimated volume (V) of (1181.807)((300)^1.5152) = 6,697,005.925 nm3 according to the model.
 
 
 ## Instructions
