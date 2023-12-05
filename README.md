@@ -34,6 +34,9 @@ The p value for the regression line was 6.438e-10 < 0.05
 
 All p values obtained were statistically significant.
 
+The values for the exponent and the scaling factor for dsDNA of the viruses were the same in table 2 of the paper (a = 1.52, B = 1182) as was the case from my own analysis (a = 1.5152, B = 1181.807).
+
+D)
 
 
 ## Instructions
