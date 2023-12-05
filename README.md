@@ -2,6 +2,14 @@
 
 \# INSERT ANSWERS HERE #
 
+# Question 4:
+A) Both graphs begin at (0,0) at the time step where t = 1.
+With each time step, the graphs behave differently, moving to different x and y coordinates seemingly randomly.
+Despite movement in all directions, both graphs descend the y axis (tend downwards) as time progresses.
+For the same period of time, despite the coordinate distance from the starting point being different between the graphs, it appears as though both have the same generale displacement from the original point. The range of values taken on in the x and the y axis appears to be similar, for example my plot1 takes on x values from approxmiately -2, to 3 giving a total range of 5. Similarly, plot2 takes on x values from approximately -1 to 4, also giving a range of 5. Likewise, plot1 takes on y values approximately from 0 to 10.5 and plot2 takes on values approximately from -1 to 8. These total y ranges are more different than the x ranges, but I would argue that comparing the directions of motion of plot1 and plot2, it is clear that plot2 did more 'back tracking' whereby it either rose back up the y axis, or remained at a similar point for multiple time steps. In comparison, plot1 descended down the y axis more continually, with less stalling. Hence despite having different total ranges of distance on the y axis, I believe the displacement between the graphs is again much more similar.
+
+B) A random seed is a fixed starting point from which random number generation can occur. It is essential in reproducibility as it means researcher's code using random number generation, will have a fixed starting point (seed), that will ensure when other researchers run the code, they obtain the same series of numbers from the random number generation. It enables simulations to be reproducible, more transparent and verifiable.
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
