@@ -22,7 +22,7 @@ D)
 
 A) The data set has 33 rows and 13 columns
 
-B) To fit a linear model to the data, you can perform a least squares regression transformation.
+B) To fit a linear model to the data, you can perform a log transformation on the data. For this reason, the equation for allometric law of dsDNA is transformed to log(V) = log(B) + alog(L). This can be fit to the linear model y = b + mx, and have a linear regression analysis performed upon it.
 
 ## Instructions
 
