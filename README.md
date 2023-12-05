@@ -10,6 +10,15 @@ For the same period of time, despite the coordinate distance from the starting p
 
 B) A random seed is a fixed starting point from which random number generation can occur. It is essential in reproducibility as it means researcher's code using random number generation, will have a fixed starting point (seed), that will ensure when other researchers run the code, they obtain the same series of numbers from the random number generation. It enables simulations to be reproducible, more transparent and verifiable.
 
+C)
+
+D) 
+
+![Screenshot 2023-12-05 at 16 33 08](https://github.com/user39201/reproducible-research_homework/assets/150145166/a35d30a7-57be-4fb8-a3ff-8ccb17535c12)
+
+![Screenshot 2023-12-05 at 16 32 04](https://github.com/user39201/reproducible-research_homework/assets/150145166/83951c5d-c173-4439-9d57-bc3187014ea8)
+
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
