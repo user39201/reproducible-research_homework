@@ -18,6 +18,12 @@ D)
 
 ![Screenshot 2023-12-05 at 16 33 08](https://github.com/user39201/reproducible-research_homework/assets/150145166/a35d30a7-57be-4fb8-a3ff-8ccb17535c12)
 
+# Question 5:
+
+A) The data set has 33 rows and 13 columns
+
+B) 
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
