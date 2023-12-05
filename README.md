@@ -14,10 +14,9 @@ C)
 
 D) 
 
-![Screenshot 2023-12-05 at 16 33 08](https://github.com/user39201/reproducible-research_homework/assets/150145166/a35d30a7-57be-4fb8-a3ff-8ccb17535c12)
-
 ![Screenshot 2023-12-05 at 16 32 04](https://github.com/user39201/reproducible-research_homework/assets/150145166/83951c5d-c173-4439-9d57-bc3187014ea8)
 
+![Screenshot 2023-12-05 at 16 33 08](https://github.com/user39201/reproducible-research_homework/assets/150145166/a35d30a7-57be-4fb8-a3ff-8ccb17535c12)
 
 ## Instructions
 
