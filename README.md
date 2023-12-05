@@ -10,6 +10,35 @@ For the same period of time, despite the coordinate distance from the starting p
 
 B) A random seed is a fixed starting point from which random number generation can occur. It is essential in reproducibility as it means researcher's code using random number generation, will have a fixed starting point (seed), that will ensure when other researchers run the code, they obtain the same series of numbers from the random number generation. It enables simulations to be reproducible, more transparent and verifiable.
 
+C)
+
+D) 
+
+![Screenshot 2023-12-05 at 16 32 04](https://github.com/user39201/reproducible-research_homework/assets/150145166/83951c5d-c173-4439-9d57-bc3187014ea8)
+
+![Screenshot 2023-12-05 at 16 33 08](https://github.com/user39201/reproducible-research_homework/assets/150145166/a35d30a7-57be-4fb8-a3ff-8ccb17535c12)
+
+# Question 5:
+
+A) The data set has 33 rows and 13 columns
+
+B) To fit a linear model to the data, you can perform a log transformation on the data. For this reason, the equation for allometric law of dsDNA is transformed to log(V) = log(B) + alog(L). This can be fit to the linear model y = b + mx, and have a linear regression analysis performed upon it.
+
+C) After performing a log transformation and a linear regression analysis on the data, my calculated values were as follows:
+
+B = 1181.807 (log(B) = 7.0748, p_val = 2.28e-10 < 0.05)
+
+a = 1.5152 (p_val = 6.44e-10 < 0.05)
+
+The p value for the regression line was 6.438e-10 < 0.05
+
+All p values obtained were statistically significant.
+
+The values for the exponent and the scaling factor for dsDNA of the viruses were the same in table 2 of the paper (a = 1.52, B = 1182) as was the case from my own analysis (a = 1.5152, B = 1181.807).
+
+D)
+
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
