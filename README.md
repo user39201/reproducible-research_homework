@@ -24,6 +24,18 @@ A) The data set has 33 rows and 13 columns
 
 B) To fit a linear model to the data, you can perform a log transformation on the data. For this reason, the equation for allometric law of dsDNA is transformed to log(V) = log(B) + alog(L). This can be fit to the linear model y = b + mx, and have a linear regression analysis performed upon it.
 
+C) After performing a log transformation and a linear regression analysis on the data, my calculated values were as follows:
+
+B = 1181.807 (log(B) = 7.0748, p_val = 2.28e-10 < 0.05)
+
+a = 1.5152 (p_val = 6.44e-10 < 0.05)
+
+The p value for the regression line was 6.438e-10 < 0.05
+
+All p values obtained were statistically significant.
+
+
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
