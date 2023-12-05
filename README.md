@@ -22,7 +22,7 @@ D)
 
 A) The data set has 33 rows and 13 columns
 
-B) 
+B) To fit a linear model to the data, you can perform a least squares regression transformation.
 
 ## Instructions
 
