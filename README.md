@@ -22,11 +22,11 @@ D)
 
 A) The data set has 33 rows and 13 columns
 
-B) To fit a linear model to the data, you can perform a log transformation on the data. For this reason, the equation for allometric law of dsDNA is transformed to log(V) = log(B) + alog(L). This can be fit to the linear model y = b + mx, and have a linear regression analysis performed upon it.
+B) To fit a linear model to the data, you can perform a natural log transformation on the data. For this reason, the equation for allometric law of dsDNA is transformed to ln(V) = ln(B) + aln(L). This can be fit to the linear model y = b + mx, and have a linear regression analysis performed upon it.
 
-C) After performing a log transformation and a linear regression analysis on the data, my calculated values were as follows:
+C) After performing a natural log transformation and a linear regression analysis on the data, my calculated values were as follows:
 
-B = 1181.807 (log(B) = 7.0748, p_val = 2.28e-10 < 0.05)
+B = 1181.807 (ln(B) = 7.0748, p_val = 2.28e-10 < 0.05)
 
 a = 1.5152 (p_val = 6.44e-10 < 0.05)
 
@@ -36,7 +36,9 @@ All p values obtained were statistically significant.
 
 The values for the exponent and the scaling factor for dsDNA of the viruses were the same in table 2 of the paper (a = 1.52, B = 1182) as was the case from my own analysis (a = 1.5152, B = 1181.807).
 
-D)
+D) The code for the replication of the plot is in this repository.
+
+E) A dsDNA virus with a genome length (L) of 300Kb, will have an estimated volume (V) of (1181.807)((300)^1.5152) = 6,697,006.581 nm3 according to the model.
 
 
 ## Instructions
